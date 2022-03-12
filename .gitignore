@@ -1,0 +1,8 @@
+.env
+.DS_Store
+
+addresses/*
+!addresses/example-addresses.txt
+
+templates/*
+!templates/example-template.html
